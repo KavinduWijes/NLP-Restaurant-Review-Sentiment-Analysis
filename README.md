@@ -3,8 +3,8 @@
 This repository includes the related files of Project 16. 
 
 # Files
-Initial Dataset URL - [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews)
-`Ipynb` directory includes all Interactive Python Notebooks
+Initial Dataset URL - [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews) <br>
+`Ipynb` directory includes all Interactive Python Notebooks <br>
 `Datasets` directory includes all relevant files
 
 ## How to Run
